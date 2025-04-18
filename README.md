@@ -1,1 +1,1 @@
-# ecommerce-etl-pipeline
+This project demonstrates a real-time data streaming and batch ETL pipeline for e-commerce product data. The architecture combines cloud-native services (AWS), containerization (Docker), and modern analytics (Power BI) to deliver an end-to-end data solution.# ecommerce-etl-pipeline
